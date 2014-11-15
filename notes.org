@@ -1,0 +1,34 @@
+#+TITLE: WIZARDRY
+#+AUTHOR: Bodil Stokke
+
+* This is not about me and my career.
+** My career path is too strange anyway.
+* I want to tell you why I'm still here.
+** You shouldn't be here because it's a safe career choice.
+** You shouldn't be here because it's going to pay well.
+* Let's look at the world right now.
+** We live large parts of our lives on the internets.
+*** Socialising: Facebook Twitter Instagram Whatsapp etc
+*** Commerce: Amazon Paypal Groupon etc
+** We *administrate* our lives through the internets.
+*** Government services, banking, health care etc
+** These days, being internets illiterate is a severe handicap.
+* Most people are consumers.
+** They consume services, not just content.
+** They take what they're given because there's nothing else.
+** They're at the mercy of those who can produce.
+** Those who can produce in turn consume the consumers.
+** They can mistreat you however they please and you have no recourse.
+* But we are wizards!
+** My Emacs, let me show you it.
+*** I put a puppy there because I felt there should be a puppy there.
+*** I took this Emacs and made it my own.
+** I got sick of Gmail so I built a mail server for myself.
+** I wanted to teach people how to make games so I built this editor.
+** If there's something I can't do, I know I can learn it if I'm excited about it.
+** This gives me agency!
+*** This agency is absent in those who can't do programming.
+** Learning things is amazing. Figuring things out is amazing.
+** But the most amazing thing of all is being able to shape your world.
+* I'm here because I can change the world. Nothing else matters.
+** You should change the world too.
